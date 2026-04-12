@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Food and Drink",
+  "config_category": "expansion",
+  "config_description": "\u2014 Independent Distressed Venues with Verified Decline \u2014\n\nThis feed isolates established, high-revenue hospitality venues currently experiencing a sharp, confirmed drop in Transaction Velocity & Customer Sentiment.\n\nThese are previously high-performing venues that have suddenly entered operational freefall, creating a leading indicator for immediate working capital needs, ownership fatigue, or market-ready distress.\n\nDataset Parameters:\n\n- High-Revenue Operations: Confirmed 1,000+ historical reviews (indicating large, established venues with significant overhead).\n\n- The 30% Crash: 90-day sentiment and foot-traffic velocity have crashed by 30%+ compared to their 360-day baseline.\n\n- No Corporate Safety Net: Strictly independent Food & Beverage locations (zero nationwide chains).\n\n- Verified Open: Confirmed \"Active Heartbeat\" signal within the last 90 days.",
+  "config_name": "High-Volume Restaurants Experiencing a 30%+ Crash This Quarter in New York",
+  "export_job_id": "200dafcc-670a-4dbb-a3d0-2cfede1e1cbe",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 497231,
+  "location_name": "New York",
+  "location_type": "state",
+  "repo_name": "high-volume-restaurants-experiencing-a-30-crash-this-quarter-in-new-york-sample-497231",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/497231/beamstation_497231_food_and_drink-us-ny_SAMPLE_DIST.csv",
+  "sample_pct": 9.87,
+  "sample_records": 66,
+  "sample_sha256": "8b8b91c0fbaf18ba52b06c5faeac659679c8c2864674078e19084ae5f2d0ec07",
+  "sample_size_bytes": 273480,
+  "total_records": 669,
+  "updated_at": "2026-04-09T18:33:24.702629+00:00"
+}
