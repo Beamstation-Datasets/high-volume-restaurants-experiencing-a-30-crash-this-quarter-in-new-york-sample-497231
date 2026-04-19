@@ -1,12 +1,12 @@
 {
-  "export_job_id": "200dafcc-670a-4dbb-a3d0-2cfede1e1cbe",
+  "export_job_id": "84c0fe1d-b335-45cc-9a37-5808d16d705e",
   "id_short": 497231,
-  "published_at": "2026-04-12T19:31:07Z",
+  "published_at": "2026-04-19T19:37:23Z",
   "repo_name": "high-volume-restaurants-experiencing-a-30-crash-this-quarter-in-new-york-sample-497231",
   "sample_asset_name": "beamstation_497231_food_and_drink-us-ny_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/497231/beamstation_497231_food_and_drink-us-ny_SAMPLE_DIST.csv",
-  "sample_records": 66,
-  "sample_sha256": "8b8b91c0fbaf18ba52b06c5faeac659679c8c2864674078e19084ae5f2d0ec07",
-  "sample_size_bytes": 273480,
-  "total_records": 669
+  "sample_records": 86,
+  "sample_sha256": "6329cbec91fce7c3d9dbe00c2fdd6c6360a3321cee6d3efc81048445b23b91d7",
+  "sample_size_bytes": 327035,
+  "total_records": 861
 }
